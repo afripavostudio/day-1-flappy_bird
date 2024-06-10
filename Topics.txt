@@ -1,0 +1,5 @@
+State Machine *
+Procedural generation *
+Infinite Scrolling *
+Drawing Images *
+Parallax Scrolling *
